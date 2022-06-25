@@ -1,0 +1,9 @@
+div#input {
+    width: 70%;
+    margin: 20px auto;
+}
+
+div#result {
+    width: 90%;
+    margin: auto;
+}
